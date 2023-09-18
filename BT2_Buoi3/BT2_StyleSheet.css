@@ -1,0 +1,51 @@
+﻿body {
+}
+#main {
+    background-color: black;
+    width: 100%;
+    height: 50px;
+    color :white;
+    
+}
+
+
+
+#header {
+    width: 100%;
+    height: 200px;
+}
+
+#content {
+    width: 70%;
+    height: 450px;
+    float: left;
+}
+
+#side {
+    width: 30%;
+    height: 450px;
+    float: left;
+}
+
+#footer {
+    background-color: rgb(212, 211, 201);
+    width: 100%;
+    height: 120px;
+    clear: both;
+}
+
+h1 {
+    font-size: 20px;
+}
+
+h2 {
+    font-size: 10px;
+}
+
+h3 {
+    font-size: 12px;
+}
+
+h4 {
+    font-size: 13px;
+}
